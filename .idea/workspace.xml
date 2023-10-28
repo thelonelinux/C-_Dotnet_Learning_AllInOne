@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc76b9d-8b0b-4799-a15e-196f5275094c" name="Changes" comment="C# Dotnet Learning (Removed unnecessary files - only readme)">
-      <change beforePath="$PROJECT_DIR$/CSharp_Dotnet_Learning_AllInOne/CSharp_Dotnet_Learning_Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSharp_Dotnet_Learning_AllInOne/CSharp_Dotnet_Learning_Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="adc76b9d-8b0b-4799-a15e-196f5275094c" name="Changes" comment="C# Dotnet Learning (More links and learning)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698259380320</updated>
       <workItem from="1698259381410" duration="992000" />
-      <workItem from="1698500985763" duration="788000" />
+      <workItem from="1698500985763" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="C# Dotnet Learning (Readme notes loaded and link)">
       <option name="closed" value="true" />
@@ -67,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698501104902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="C# Dotnet Learning (More links and learning)">
+      <option name="closed" value="true" />
+      <created>1698502199116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698502199116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C# Dotnet Learning (Readme notes loaded and link)" />
     <MESSAGE value="C# Dotnet Learning (Removed unnecessary files - only readme)" />
-    <option name="LAST_COMMIT_MESSAGE" value="C# Dotnet Learning (Removed unnecessary files - only readme)" />
+    <MESSAGE value="C# Dotnet Learning (More links and learning)" />
+    <option name="LAST_COMMIT_MESSAGE" value="C# Dotnet Learning (More links and learning)" />
   </component>
 </project>

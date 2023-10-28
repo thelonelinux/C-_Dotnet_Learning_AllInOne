@@ -35,6 +35,7 @@
 * link : https://www.halvorsen.blog/documents/programming/web/asp_net.php
 * Web services interview questions
 * link ; Interviewbit : https://www.interviewbit.com/web-services-interview-questions/
+* Web services more you can learn in javatpoint and c# corner website, no notes required, as it gets updated
 
 
 #### Other learning : 
